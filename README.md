@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Vivek</h1>
-<p align="center">Fullstack developer with experience in end-to-end delivery (Development-to-deployment) from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Delhi, India</b> </p>
+<p align="center">Fullstack developer with experience in end-to-end delivery (Development-to-deployment) from <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" width="20"/> <b>Delhi, India</b> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viveksingh101994" alt="pemtajo" /> </p>
 
 ---
