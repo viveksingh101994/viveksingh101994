@@ -1,79 +1,208 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Vivek</h1>
-<p align="center">Fullstack developer with experience in end-to-end delivery (Development-to-deployment), currently based in <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="20"/> <b>London, United Kingdom</b>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=viveksingh101994" alt="pemtajo" /> </p>
+```
+   ██╗   ██╗██╗██╗   ██╗███████╗██╗  ██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+   ██║   ██║██║██║   ██║██╔════╝██║ ██╔╝    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+   ██║   ██║██║██║   ██║█████╗  █████╔╝     ███████╗██║██╔██╗ ██║██║  ███╗███████║
+   ╚██╗ ██╔╝██║╚██╗ ██╔╝██╔══╝  ██╔═██╗     ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+    ╚████╔╝ ██║ ╚████╔╝ ███████╗██║  ██╗    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+     ╚═══╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viveksingh101994&style=flat-square&color=F5275E" alt="viveksingh101994" />
+  <img src="https://img.shields.io/badge/YOE-9+-273FF5?style=flat-square" />
+  <img src="https://img.shields.io/badge/CKA-Certified-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/LLM-Engineering-ff00ff?style=flat-square" />
+</p>
+
+```yaml
+# ============================================================
+# SYSTEM PROMPT: vivek_singh.yaml
+# Senior Software Engineer | London, UK
+# Model: human-polyglot-engineer-v9.0
+# Last updated: 2026
+# ============================================================
+
+system:
+  name: "Vivek Singh"
+  role: "Senior Software Engineer"
+  base: "London, United Kingdom"
+  company: "Smartsheet"
+  architecture: "polyglot-distributed-systems"
+  training_data: "9+ years of production systems"
+
+mission: >
+  Build and operate large-scale distributed systems in
+  high-availability, security-critical environments.
+  Currently exploring the intersection of traditional
+  backend engineering and AI-powered development.
+
+core_capabilities:
+  primary_languages: [Go, Java, TypeScript, "C#", Python]
+  inference_engine: "Backend & Distributed Systems"
+  context_window: "30+ microservices designed from scratch"
+
+  embeddings:
+    vector_stores: [Qdrant, Neo4j, Memgraph]
+    databases: [PostgreSQL, "SQL Server", MongoDB, Redis, DynamoDB]
+
+  orchestration:
+    cloud: [AWS Lambda, ECS, S3, DynamoDB, CDK, Bedrock]
+    containers: [Kubernetes, Docker, Terraform, Helm]
+    messaging: [Kafka, RabbitMQ, "Event-Driven Architecture"]
+
+  reasoning_chain:
+    security: [OAuth2, SAML, RBAC, JWT, WAF, SSO]
+    patterns: [Microservices, REST, GraphQL, "Event-Driven"]
+    frontend: ["React (production systems)"]
+
+  tools_and_agents:
+    observability: [Datadog, OpenSearch, k6]
+    ci_cd: [GitHub Actions, GitLab CI, Jenkins]
+    ai_tooling: [Claude Code, RooCode, Cline, MCP, RAG]
+
+temperature: 0.7  # creative but reliable
+max_tokens: unlimited  # always shipping
+```
 
 ---
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img alt="Serverless" src="http://public.serverless.com/badges/v3.svg"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgresQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"/>
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+### `> CURRENT_CONTEXT`
+
+```
+├── 🏢 Smartsheet          Senior Software Engineer I      May 2023 → Present
+├── 🧬 Lifebit Biotech     Senior Engineer (Tech Lead)     Aug 2021 → May 2023
+├── 📅 OnceHub             Software Dev Engineer II        May 2018 → Aug 2021
+└── 💻 Bellurbis Tech      Software Engineer               Mar 2017 → May 2018
+```
+
+---
+
+### `> AI_PROJECTS.map()`
+
+<table>
+<tr><td width="50%">
+
+**🧠 Almanac (GraphRAG)**
+> Lightning-fast data access for AI Agents using GraphRAG, vector search & graph indexing
+
+`React` `Express` `MongoDB` `Qdrant` `Memgraph` `Redis` `MCP` `Docker`
+
+</td><td width="50%">
+
+**🤖 Fathom MCP Server**
+> MCP server for AI meeting intelligence — transcripts, summaries & team management
+
+`Python` `FastMCP` `httpx` `Pydantic` `Docker`
+
+</td></tr>
+<tr><td width="50%">
+
+**⚡ Protege**
+> AI-powered business automation with multi-extension architecture
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `LLM` `AI`
+
+</td><td width="50%">
+
+**🎓 AI Agents Engineering**
+> Autonomous agents, multi-agent orchestration & MCP implementations
+
+`Python` `OpenAI Agents SDK` `CrewAI` `LangGraph` `AutoGen` `MCP`
+
+</td></tr>
+<tr><td width="50%">
+
+**📚 LLM Engineering**
+> Embeddings, RAG, fine-tuning & agentic AI patterns
+
+`Python` `LangChain` `Transformers` `PyTorch` `Ollama` `RAG`
+
+</td><td width="50%">
+
+**🔐 OAuth2 IDP & Auth**
+> Org-wide identity provider with JWT auth across 4+ .NET microservices & SAML SSO for 20k+ users
+
+`OAuth2` `.NET` `JWT` `NodeJS` `Docker` `Kubernetes`
+
+</td></tr>
+</table>
+
+---
+
+### `> INFERENCE_STACK`
+
+```
+                                ┌─────────────────────────────────────────────────────────┐
+                                │                    AI / LLM LAYER                       │
+                                │  Claude · OpenAI · LangChain · RAG · MCP · Embeddings   │
+                                ├─────────────────────────────────────────────────────────┤
+                                │                   APPLICATION LAYER                     │
+                                │    Go · Java · TypeScript · C# · React · GraphQL        │
+                                ├─────────────────────────────────────────────────────────┤
+                                │                  INFRASTRUCTURE LAYER                   │
+                                │   AWS · Kubernetes · Docker · Terraform · Serverless    │
+                                ├─────────────────────────────────────────────────────────┤
+                                │                       DATA LAYER                        │
+                                │  PostgreSQL · MongoDB · Redis · Qdrant · Neo4j · Kafka  │
+                                ├─────────────────────────────────────────────────────────┤
+                                │                  OBSERVABILITY LAYER                    │
+                                │       Datadog · OpenSearch · k6 · GitHub Actions        │
+                                └─────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `> CERTIFICATIONS && AWARDS`
+
+```python
+achievements = {
+    "certifications": [
+        "Certified Kubernetes Administrator Developer (CKA) — 2021-2024",
+        "Advanced Node.js",
+        "Advanced SQL for Query Tuning & Performance Optimization",
+        "Node.js: Design Patterns",
+    ],
+    "awards": [
+        "Employee of the Month — OnceHub (2020)",
+        "Team Award Q2 2020 — OnceHub",
+        "5-star Rated Mentor — Codementor (Ongoing)",
+    ],
+    "investing": [
+        "Angel Investor — Crowdcube (2025 - Present)",
+    ],
+}
+```
+
+---
+
+### `> MENTORSHIP.active_sessions()`
+
+| Organization | Role | Focus |
+|:---|:---|:---|
+| 🎓 **University of Washington** | Mentor | System design, software engineering, career development |
+| ⭐ **Codementor** | 5-star Mentor & Freelancer | Backend dev with NodeJS and C# |
+| 📝 **StackOverflow** | Weekend Contributor | Node.js, TypeScript, distributed systems |
+
+---
+
+### `> git log --oneline --graph`
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh101994&theme=radical&hide_border=true&stroke=00ffff&ring=00ff41&fire=ffe600&currStreakLabel=00ffff" alt="viveksingh101994" />
 </p>
 
 ---
 
-<h3> Certification </h3>
+### `> CONNECT`
 
-Certified Kubernetes Administrator Developer 2021-2024
+<p align="center">
+  <a href="https://viveksingh101994.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ffff" /></a>
+  <a href="https://www.linkedin.com/in/viveksingh101994"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.codementor.io/@viveksingh570"><img src="https://img.shields.io/badge/Codementor-003648?style=for-the-badge&logo=codementor&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/11921126/vivek-singh"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vivek.maestro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
----
-
-<h2> GitHub Stats </h2>
-
-<div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh101994&theme=dark" alt="pemtajo" /></p>
-</div>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksingh101994&show_icons=true&locale=en&layout=compact&theme=dark" alt="viveksingh101994" /></p>
-</div>
-<br/>
-
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksingh101994&show_icons=true&locale=en&theme=dark" alt="viveksingh101994" /></p>
-</div>
-
----
-
-<h3> Contact me on </h3>
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/viveksingh570/contact-me.svg)](https://www.codementor.io/@viveksingh570?refer=badge)
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/viveksingh101994)
-
-[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11921126/vivek-singh)
-
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>](https://www.instagram.com/vivek.maestro/)
-
+<p align="center">
+  <i>// building systems that scale · shipping AI that works · mentoring the next generation</i>
+</p>
